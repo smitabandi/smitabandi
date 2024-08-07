@@ -1,6 +1,6 @@
 # Hello, I'm Smita Bandi! 👋
 
-Welcome to my GitHub profile! I'm a final year B.E. student passionate about development ,database and cloud technologies.
+Welcome to my GitHub profile! I'm a final year B.E. (Computer) student passionate about development ,database and cloud technologies.
 ## About Me
 
 - 🔭 I’m working on various projects that involve web development, data analysis, and cloud infrastructure.
