@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a final year B.E. (Computer) student passionat
 - 🔭 I’m working on various projects that involve web development, data analysis, and cloud infrastructure.
 - 💼 Previously, I interned at Data Lumina, where I converted raw data into formats suitable for machine learning models and built insightful dashboards.
 - 💬 Ask me about JavaScript, React, Node.js, Power BI, and cloud services.
-- 🌐 Interested in cloud databases and development.
+- 🌐 Interested in cloud, databases and development.
 - ⚡ Fun fact: I'm a huge tech enthusiast and love exploring new tools and technologies in my spare time!
 - 📫 How to reach me: bandismita7@gmail.com
 
