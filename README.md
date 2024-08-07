@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a final year B.E. student passionate about dev
 
 ## Skills
 
-- **Frontend Development:** HTML, CSS, JavaScript, React
+- **Frontend Development:** HTML, CSS, JavaScript
 - **Backend Development:** Node.js, Express.js
 - **Database Management:** MongoDB,MYSQL
 - **Programming Languages:** C++,Python
