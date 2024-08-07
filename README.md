@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a final year B.E. student passionate about dev
 
 - **Frontend Development:** HTML, CSS, JavaScript, React
 - **Backend Development:** Node.js, Express.js
-- **Database Management:** MongoDB
+- **Database Management:** MongoDB,MYSQL
 - **Programming Languages:** C++,Python
 - **Data Analysis:** Excel, Power BI, Jupyter Notebook
 - **Cloud Computing:** Familiar with AWS services
